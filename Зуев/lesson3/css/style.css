@@ -1,0 +1,24 @@
+/* .test{
+    background-color: aqua;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 150px;
+    gap: 20px;
+
+}
+
+.test2{
+    background-color: red;
+    border :1px solid black;
+} */
+
+.my_margin{
+    
+    height: 150px; 
+    background-color: gold;
+    border:  1px solid black;
+
+    margin-left: 400px;
+    margin-top: 400px;
+}
